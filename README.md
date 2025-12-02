@@ -102,9 +102,9 @@ El código soporta **3 modos de salida**, seleccionables enviando caracteres por
 
 <!-- Sube tus imágenes a una carpeta "img" o usa links externos y reemplaza las rutas abajo -->
 
-| Prototipo Final | Datos en Serial Plotter |
-|-----------------|-------------------------|
-| ![Dispositivo montado en carcasa](img/prototipo.jpg) | ![Visualización de acelerometría](img/serial_plotter.png) |
+| Prototipo Final |
+|-----------------|
+| ![Dispositivo montado en carcasa](prototipo.png) |
 
 ---
 
@@ -112,7 +112,7 @@ El código soporta **3 modos de salida**, seleccionables enviando caracteres por
 
 1. **Clonar el repositorio**:
 ```bash
-   git clone https://github.com/tu-usuario/smart-vet-monitor.git
+   analisis_de_marcha.ino
 ```
 
 2. **Abrir el proyecto**: Usar Arduino IDE o PlatformIO.
