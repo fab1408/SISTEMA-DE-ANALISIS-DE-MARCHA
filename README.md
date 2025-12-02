@@ -1,7 +1,7 @@
-# 🐮 Smart Vet Monitor: Sistema IoT de Análisis de Marcha y Detección de Patologías
+# 🐮 Sistema IoT de Análisis de Marcha y Detección de Patologías
 
 > *"Un Guardián Digital para el bienestar animal."*  
-> Proyecto final de la asignatura **Electrónica Digital y Microcontroladores** - Universidad Loyola.
+> Proyecto final de la asignatura **Electrónica Digital y Microcontroladores** - Universidad Loyola Andalucía.
 
 ---
 
